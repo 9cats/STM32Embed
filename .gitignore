@@ -1,0 +1,15 @@
+//忽略CubeIDE工作区文件
+.metadata
+
+//忽略子项目不必要的.gitignore
+.gitignore
+!/.gitignore
+
+//忽略项目不必要的文件
+CMSIS
+STM32F1xx_HAL_Driver
+STM32F4xx_HAL_Driver
+
+//忽略CubeIDE(Eclipse)生成的文件
+.settings
+*.launch
