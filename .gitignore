@@ -1,5 +1,6 @@
 //忽略CubeIDE工作区文件
 .metadata
+RemoteSystemsTempFiles
 
 //忽略子项目不必要的.gitignore
 .gitignore
