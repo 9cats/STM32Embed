@@ -4,6 +4,6 @@
 [submodule "Utils/MiniF3/02LCD"]
 	path = Utils/MiniF3/02LCD
 	url = https://github.com/9cats-submodule/F3_02LCD.git
-[submodule "Utils\\MiniF3\\03TOUCH"]
-	path = Utils\\MiniF3\\03TOUCH
+[submodule "Utils/MiniF3/03TOUCH"]
+	path = Utils/MiniF3/03TOUCH
 	url = https://github.com/9cats-submodule/F3_03TOUCH.git
