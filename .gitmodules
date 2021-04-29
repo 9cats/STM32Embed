@@ -7,3 +7,6 @@
 [submodule "Utils/MiniF3/03TOUCH"]
 	path = Utils/MiniF3/03TOUCH
 	url = https://github.com/9cats-submodule/F3_03TOUCH.git
+[submodule "Utils/MiniF4/01LED"]
+	path = Utils/MiniF4/01LED
+	url = https://github.com/9cats-submodule/F4_01LED.git
