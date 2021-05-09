@@ -16,3 +16,6 @@
 [submodule "Utils/MiniF4/03TOUCH"]
 	path = Utils/MiniF4/03TOUCH
 	url = https://github.com/9cats-submodule/F4_03TOUCH.git
+[submodule "Utils/MiniF4/04RNF24L01"]
+	path = Utils/MiniF4/04RNF24L01
+	url = https://github.com/9cats-submodule/F4_RNF24L01.git
