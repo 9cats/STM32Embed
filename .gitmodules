@@ -22,3 +22,6 @@
 [submodule "Utils/MiniF3/04RNF24L01"]
 	path = Utils/MiniF3/04RNF24L01
 	url = https://github.com/9cats-submodule/F3_RNF24L01.git
+[submodule "Utils/MiniF3/04RNF24L01_NOTOUCH"]
+	path = Utils/MiniF3/04RNF24L01_NOTOUCH
+	url = https://github.com/9cats-submodule/F3_04RNF24L01_NOTOUCH.git
