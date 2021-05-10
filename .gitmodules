@@ -7,6 +7,12 @@
 [submodule "Utils/MiniF3/03TOUCH"]
 	path = Utils/MiniF3/03TOUCH
 	url = https://github.com/9cats-submodule/F3_03TOUCH.git
+[submodule "Utils/MiniF3/04RNF24L01"]
+	path = Utils/MiniF3/04RNF24L01
+	url = https://github.com/9cats-submodule/F3_RNF24L01.git
+[submodule "Utils/MiniF3/04RNF24L01_NOTOUCH"]
+	path = Utils/MiniF3/04RNF24L01_NOTOUCH
+	url = https://github.com/9cats-submodule/F3_04RNF24L01_NOTOUCH.git
 [submodule "Utils/MiniF4/01LED"]
 	path = Utils/MiniF4/01LED
 	url = https://github.com/9cats-submodule/F4_01LED.git
@@ -18,10 +24,4 @@
 	url = https://github.com/9cats-submodule/F4_03TOUCH.git
 [submodule "Utils/MiniF4/04RNF24L01"]
 	path = Utils/MiniF4/04RNF24L01
-	url = https://github.com/9cats-submodule/F4_RNF24L01.git
-[submodule "Utils/MiniF3/04RNF24L01"]
-	path = Utils/MiniF3/04RNF24L01
-	url = https://github.com/9cats-submodule/F3_RNF24L01.git
-[submodule "Utils/MiniF3/04RNF24L01_NOTOUCH"]
-	path = Utils/MiniF3/04RNF24L01_NOTOUCH
-	url = https://github.com/9cats-submodule/F3_04RNF24L01_NOTOUCH.git
+	url = https://github.com/9cats-submodule/F4_04RNF24L01.git
