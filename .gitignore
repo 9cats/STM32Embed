@@ -2,6 +2,9 @@
 .metadata/*
 !.metadata/.plugins
 .metadata/.plugins/*
+//以下为CubeIDE工作区管理项目的配置文件
+!.metadata/.plugins/org.eclipse.core.resources
+//以下为各个项目的配置文件
 !.metadata/.plugins/org.eclipse.cdt.core
 .metadata/.plugins/org.eclipse.cdt.core/*
 !.metadata/.plugins/org.eclipse.cdt.core/*.language.settings.xml
