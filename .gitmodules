@@ -18,7 +18,7 @@
 	url = https://github.com/9cats-submodule/F4_01LED.git
 [submodule "Utils/MiniF4/02LCD"]
 	path = Utils/MiniF4/02LCD
-	url = https://github.com/9cats-submodule/F4_01LED.git
+	url = https://github.com/9cats-submodule/F4_02LCD.git
 [submodule "Utils/MiniF4/03TOUCH"]
 	path = Utils/MiniF4/03TOUCH
 	url = https://github.com/9cats-submodule/F4_03TOUCH.git
