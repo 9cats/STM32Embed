@@ -1,14 +1,5 @@
-//忽略CubeIDE工作区文件，并保留CubeIDE的重要配置文件
-.metadata/*
-!.metadata/.plugins
-.metadata/.plugins/*
-//以下为CubeIDE工作区管理项目的配置文件
-!.metadata/.plugins/org.eclipse.core.resources
-//以下为各个项目的配置文件
-!.metadata/.plugins/org.eclipse.cdt.core
-.metadata/.plugins/org.eclipse.cdt.core/*
-!.metadata/.plugins/org.eclipse.cdt.core/*.language.settings.xml
-RemoteSystemsTempFiles
+//忽略CubeIDE工作区文件
+.metadata
 
 //忽略子项目不必要的.gitignore
 .gitignore
