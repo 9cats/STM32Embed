@@ -25,3 +25,6 @@
 [submodule "Utils/MiniF4/04RNF24L01"]
 	path = Utils/MiniF4/04RNF24L01
 	url = https://github.com/9cats-submodule/F4_04RNF24L01.git
+[submodule "Utils/MiniF4/05ATK8266WIFI"]
+	path = Utils/MiniF4/05ATK8266WIFI
+	url = https://github.com/9cats-submodule/F4_05ATK8266WIFI.git
