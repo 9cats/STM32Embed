@@ -1,33 +1,44 @@
 [submodule "Utils/MiniF3/01LED"]
 	path = Utils/MiniF3/01LED
 	url = https://github.com/9cats-submodule/F3_01LED.git
+	branch = master
 [submodule "Utils/MiniF3/02LCD"]
 	path = Utils/MiniF3/02LCD
 	url = https://github.com/9cats-submodule/F3_02LCD.git
+	branch = master
 [submodule "Utils/MiniF3/03TOUCH"]
 	path = Utils/MiniF3/03TOUCH
 	url = https://github.com/9cats-submodule/F3_03TOUCH.git
+	branch = master
 [submodule "Utils/MiniF3/04RNF24L01"]
 	path = Utils/MiniF3/04RNF24L01
-	url = https://github.com/9cats-submodule/F3_RNF24L01.git
+	url = https://github.com/9cats-submodule/F3_04RNF24L01.git
+	branch = master
 [submodule "Utils/MiniF3/04RNF24L01_NOTOUCH"]
 	path = Utils/MiniF3/04RNF24L01_NOTOUCH
 	url = https://github.com/9cats-submodule/F3_04RNF24L01_NOTOUCH.git
+	branch = master
 [submodule "Utils/MiniF4/01LED"]
 	path = Utils/MiniF4/01LED
 	url = https://github.com/9cats-submodule/F4_01LED.git
+	branch = master
 [submodule "Utils/MiniF4/02LCD"]
 	path = Utils/MiniF4/02LCD
 	url = https://github.com/9cats-submodule/F4_02LCD.git
+	branch = master
 [submodule "Utils/MiniF4/03TOUCH"]
 	path = Utils/MiniF4/03TOUCH
 	url = https://github.com/9cats-submodule/F4_03TOUCH.git
+	branch = master
 [submodule "Utils/MiniF4/04RNF24L01"]
 	path = Utils/MiniF4/04RNF24L01
 	url = https://github.com/9cats-submodule/F4_04RNF24L01.git
+	branch = master
 [submodule "Utils/MiniF4/05ATK8266WIFI"]
 	path = Utils/MiniF4/05ATK8266WIFI
 	url = https://github.com/9cats-submodule/F4_05ATK8266WIFI.git
+	branch = master
 [submodule "Utils/MiniF4/06DDS"]
 	path = Utils/MiniF4/06DDS
 	url = https://github.com/9cats-submodule/F4_06DDS.git
+	branch = master
