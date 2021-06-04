@@ -42,6 +42,9 @@
 	path = Utils/MiniF4/06DDS
 	url = https://github.com/9cats-submodule/F4_06DDS.git
 	branch = master
+	[submodule "Utils/MiniF4/07TFT"]
+	path = Utils/MiniF4/07TFT
+	url = https://github.com/9cats-submodule/F4_07TFT.git
 [submodule "Job/F4_11WirelessEnergyTransceiver"]
 	path = Job/F4_11WirelessEnergyTransceiver
 	url = https://github.com/9cats-submodule/F4_11WirelessEnergyTransceiver.git
