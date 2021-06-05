@@ -48,3 +48,6 @@
 [submodule "Job/F4_11WirelessEnergyTransceiver"]
 	path = Job/F4_11WirelessEnergyTransceiver
 	url = https://github.com/9cats-submodule/F4_11WirelessEnergyTransceiver.git
+[submodule "Utils/MiniF3/05W25QXX"]
+	path = Utils/MiniF3/05W25QXX
+	url = https://github.com/9cats-submodule/F3_05W25QXX.git
