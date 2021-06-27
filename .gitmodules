@@ -51,3 +51,6 @@
 [submodule "Utils/MiniF3/05W25QXX"]
 	path = Utils/MiniF3/05W25QXX
 	url = https://github.com/9cats-submodule/F3_05W25QXX.git
+[submodule "Job/F3_11DC_DC_Converter"]
+	path = Job/F3_11DC_DC_Converter
+	url = https://github.com/9cats-submodule/F3_11DC_DC_Converter
