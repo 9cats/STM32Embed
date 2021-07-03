@@ -54,3 +54,6 @@
 [submodule "Job/F3_11DC_DC_Converter"]
 	path = Job/F3_11DC_DC_Converter
 	url = https://github.com/9cats-submodule/F3_11DC_DC_Converter
+[submodule "Job/F4_12SimpleOSC"]
+	path = Job/F4_12SimpleOSC
+	url = https://github.com/9cats-submodule/F4_12SimpleOSC.git
