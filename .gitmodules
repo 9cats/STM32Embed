@@ -57,3 +57,6 @@
 [submodule "Job/F4_12SimpleOSC"]
 	path = Job/F4_12SimpleOSC
 	url = https://github.com/9cats-submodule/F4_12SimpleOSC.git
+[submodule "Job/F4_13SCTESTER"]
+	path = Job/F4_13SCTESTER
+	url = https://github.com/9cats-submodule/F4_13SCTESTER.git
