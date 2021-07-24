@@ -60,3 +60,9 @@
 [submodule "Job/F4_13SCTESTER"]
 	path = Job/F4_13SCTESTER
 	url = https://github.com/9cats-submodule/F4_13SCTESTER.git
+[submodule "Job/F4_14DistortionTester"]
+	path = Job/F4_14DistortionTester
+	url = https://github.com/9cats-submodule/F4_14DistortionTester.git
+[submodule "Utils/MiniF4P/F4P_01COMMON"]
+	path = Utils/MiniF4P/F4P_01COMMON
+	url = https://github.com/9cats-submodule/F4P_01COMMON.git

@@ -1,0 +1,7 @@
+git submodule add https://github.com/9cats-submodule/F3_01LED.git
+git submodule update --init         //初始化版本
+git submodule update --remote  //更新到最新版本
+git clone --recursive http://xxx.com/xx.git
+
+git remote add origin https://github.com/9cats-submodule/F3_01LED.git
+git push -u origin master
